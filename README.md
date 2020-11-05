@@ -1,2 +1,0 @@
-# OptusAssignment
-Optus Assignment
